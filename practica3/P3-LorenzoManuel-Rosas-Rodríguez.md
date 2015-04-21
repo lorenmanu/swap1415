@@ -25,3 +25,10 @@
 ## Demostración suponiendo que la máquina servidora original tiene el doble de capacidad:
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica3/ejercicio1_6.png)
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica3/ejercicio1_7.png)
+
+# Actividad 2: Demostrar que se ha instalado y configurado haproxy:
+##Instalacion de haproxy:
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica3/ejercicio2_1.png)
+##Funcionamiento:
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica3/ejercicio2_2.png)
+
