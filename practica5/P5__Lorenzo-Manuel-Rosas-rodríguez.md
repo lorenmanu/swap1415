@@ -25,9 +25,12 @@ Posteriormente la importamos( primero deberemos crear la base de datos en la má
 
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen9.png)
 
-Esto está bien pero ahora vamos a ver como se hace realmente con una arquitectura maestro-esclavo que es como se suele trabajar en la realidad.
+Esto está bien pero ahora vamos a ver como se hace realmente con una arquitectura maestro-esclavo, la cual es la que se usa normalmente.
 
-Editamos los ficheros /etc/mysql/my.cnf como indica el guión. Ver captura "my_cnf.png"
+Partimos de que la base de datos esta duplicada:
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen10.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen11.png)
+
 
 Configuramos el maestro y el esclavo, ver captura "maestro_esclavo.png"
 
