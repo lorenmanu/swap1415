@@ -23,7 +23,7 @@ A continuación realizaremos la copia de a siguiente forma:
 
 Posteriormente la importamos( primero deberemos crear la base de datos en la máquina servidora auxiliar).
 
-    mysql -u root -p almacen < /root/almacen_copia.sql
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen8.png)
 
 Esto está bien pero ahora vamos a ver como se hace realmente con una arquitectura maestro-esclavo que es como se suele trabajar en la realidad.
 
