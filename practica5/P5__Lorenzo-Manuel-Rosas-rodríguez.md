@@ -6,8 +6,8 @@
 Hemos creado en la máquina servidora original la base de datos denominada “contactos”, en ella he creado la tabla “contactos”, y hemos puesto algunas tuplas inventadas. Se puede ver 
 en las siguientes imágenes:
 
-![img](https://github.com/lorenmanu/SWAP2015/blob/master/Practicas/Practica5/imagen1.png)
-![img](https://github.com/lorenmanu/SWAP2015/blob/master/Practicas/Practica5/imagen2.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen1.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen2.png)
 
 Procederemos a realizar una copia de seguridad, para ello deberemos bloquear antes la base de datos ya que suponemos que se está usundo constantemente y para evitar que se modifique mientras realizamos esto, por ello ponemos en la terminal:
 
@@ -15,10 +15,10 @@ Procederemos a realizar una copia de seguridad, para ello deberemos bloquear ant
 
 A continuación realizaremos la copia de a siguiente forma:
 
-![img](https://github.com/lorenmanu/SWAP2015/blob/master/Practicas/Practica5/imagen4.png)
-![img](https://github.com/lorenmanu/SWAP2015/blob/master/Practicas/Practica5/imagen5.png)
-![img](https://github.com/lorenmanu/SWAP2015/blob/master/Practicas/Practica5/imagen6.png)
-![img](https://github.com/lorenmanu/SWAP2015/blob/master/Practicas/Practica5/imagen7.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen3.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen4.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen5.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen6.png)
 
 
 Posteriormente la importamos( primero deberemos crear la base de datos en la máquina servidora auxiliar).
