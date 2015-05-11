@@ -11,14 +11,14 @@ en las siguientes imágenes:
 
 Procederemos a realizar una copia de seguridad, para ello deberemos bloquear antes la base de datos ya que suponemos que se está usundo constantemente y para evitar que se modifique mientras realizamos esto, por ello ponemos en la terminal:
 
-![img](https://github.com/lorenmanu/SWAP2015/blob/master/Practicas/Practica5/imagen3.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen3.png)
 
 A continuación realizaremos la copia de a siguiente forma:
 
-![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen3.png)
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen4.png)
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen5.png)
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen6.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen7.png)
 
 
 Posteriormente la importamos( primero deberemos crear la base de datos en la máquina servidora auxiliar).
