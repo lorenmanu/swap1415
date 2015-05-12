@@ -24,6 +24,8 @@ A continuación realizaremos la copia de a siguiente forma:
 Posteriormente la importamos( primero deberemos crear la base de datos en la máquina servidora auxiliar).
 
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen9.png)
+Importación:
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/aa.png)
 
 Esto está bien pero ahora vamos a ver como se hace realmente con una arquitectura maestro-esclavo, la cual es la que se usa normalmente.
 
