@@ -34,19 +34,15 @@ Partimos de que la base de datos esta duplicada:
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen11.png)
 
 
-Configuramos el maestro y el esclavo, para ello:
-
+Configuramos el maestro y el esclavo, para ello realizamos los siguientes cambios en el archivo de configuración “/etc/mysql/my.cnf” del maestro(máquina servidora original), lo mismo en el esclavo( máquina servidora auxiliar), pero con la diferencia de que el id del servidor será en el primero 1 y en el siguiente 2;
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen12.png)
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen13.png)
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen14.png)
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen15.png)
+Reiniciamos el servicio:
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen16.png)
-![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen17.png)
-![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen18.png)
-![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen19.png)
-![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen20.png)
-![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen21.png)
-![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen22.png)
-![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen22.png)
+Seguimos las instrucciones que vienen el el guión de prácticas, y finalmente comprobamos como que si creamos una fila en el master(ubuntu server) se crea también en el esclavo) ubuntu_aux:
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen24.png)
+Reiniciamos el servicio:
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen25.png)
+
