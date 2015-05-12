@@ -32,10 +32,19 @@ Partimos de que la base de datos esta duplicada:
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen11.png)
 
 
-Configuramos el maestro y el esclavo, ver captura "maestro_esclavo.png"
+Configuramos el maestro y el esclavo, para ello:
 
-![img](https://github.com/jesusgn90/SWAP2015/blob/master/Practicas/Practica5/maestro_esclavo.png)
-
-Finalmente para comprobarlo voy a insertar la tupla ("pan",20,35) en el maestro y verla desde el esclavo. Ver captura "comprobar.png". Como vemos efectivamente se sincroniza automáticamente sin problemas.
-
-![img](https://github.com/jesusgn90/SWAP2015/blob/master/Practicas/Practica5/comprobar.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen12.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen13.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen14.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen15.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen16.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen17.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen18.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen19.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen20.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen21.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen22.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen22.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen24.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica5/imagen25.png)
