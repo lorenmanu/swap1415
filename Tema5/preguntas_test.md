@@ -4,12 +4,12 @@
 
 ##¿Cuál de estas pruebas se utiliza para comprobar que el sistema está listo para los siguientes test?
 	a) Carga
-	b) Humo -
+	b) Humo (Respuesta correcta)
 	c) Capacidad
 	d) Estabilidad
 
 ##¿Cuál de estas pruebas se utiliza Para aplicar fuertes picos de carga durante cortos periodos?
 	a) Estrés
-	b) Sobrecarga -
+	b) Sobrecarga (Respuesta correcta)
 	c) Humo
 	d) Estabilidad
