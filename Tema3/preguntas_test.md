@@ -6,9 +6,9 @@
 	a) Compartición del ancho de banda
 	b) Complicación al asegurar los servidores
 	c) SI un servidor se ve comprometido el resto de recursos puede ser atacado.
-	d) Todas son verdaderas -
+	d) Todas son verdaderas (Respuesta correcta)
 ##En una conexión sólo al front-rail:
 	a) Requiere sólo una tarjeta de red
 	b) Los servicios ofrecidos quedan aislados
-	c) a) y b) son correctas -
+	c) a) y b) son correctas (Respuesta correcta)
 	d) Ninguna es correcta
