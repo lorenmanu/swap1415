@@ -19,7 +19,7 @@
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica3/ejercicio1_2.png)
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica3/ejercicio1_3.png)
 ## Pantallazo de los archivos de configuración:
-![img](https://github.com/lorenmanu/swap1415/blob/master/practica3/ejercicio1_5.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica3/ejercicio1_4.png)
 ## Demostración round-robin:
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica3/ejercicio1_5.png)
 ## Demostración suponiendo que la máquina servidora original tiene el doble de capacidad:
