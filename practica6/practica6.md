@@ -31,3 +31,8 @@
 #Probamos que se ha creado bien:
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica6/imagen7.png)
 
+
+Quitamos el raid y vemos si se ha quitado:
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica6/imagen8.png)
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica6/imagen9.png)
+
