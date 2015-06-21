@@ -29,4 +29,5 @@
 ![img](https://github.com/lorenmanu/swap1415/blob/master/practica6/imagen6.png)
 
 #Probamos que se ha creado bien:
+![img](https://github.com/lorenmanu/swap1415/blob/master/practica6/imagen7.png)
 
